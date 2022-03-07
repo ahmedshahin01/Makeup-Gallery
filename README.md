@@ -4,7 +4,7 @@ MakeUp Gallery - is your go-to destination to get hold of the newest and hottest
  is one of the largest online beauty destinations curated by your favorite social influencers and experts. Your go-to for instantly makeup shopping your favorite influencer boutiques, trending tutorials beauty and fashion and content, + more. Get the MakeUp Shop - app and shop the newest trends, anytime, anywhere.
   is the ultimate hub for influencer community offering their creativity, collections, and all things makeup. Get expert insights and beauty product recommendations from our unparalleled network of makeup, cosmetics fashion influencers.
   # Screen Shots
- {[![14](https://user-images.githubusercontent.com/55621519/157053127-132f4ee9-e83b-433c-a480-eeb367069ae0.jpg)
+  
   ![15](https://user-images.githubusercontent.com/55621519/157053169-ae921278-a122-4dec-a4ec-6d4dcded1896.jpg)}
 ![16](https://user-images.githubusercontent.com/55621519/157053202-7d06447f-5a61-48bb-8157-8f3e7f747ebe.jpg)
 ![11](https://user-images.githubusercontent.com/55621519/157053219-4a5e8a13-19a7-4f75-888d-15dbb7372d45.jpg)
