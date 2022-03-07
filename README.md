@@ -12,15 +12,16 @@ MakeUp Gallery - is your go-to destination to get hold of the newest and hottest
 
 
  
-#AuthScreens using FireBase Auth
+# AuthScreens using FireBase Auth
+Sign-In, Sign-Up and LogOut using Email & Password / Google Account / Facebook Account.
 ![1](https://user-images.githubusercontent.com/55621519/157057766-6ff8e7e1-33b4-4cad-9d47-ccec693030c8.jpg)
 
-#Features:
+# Features:
 Sign-In, Sign-Up and LogOut using Email & Password / Google Account / Facebook Account.
 Using GetX as state management.
 Using MVC architecture and clean code.Using MVVM architecture and clean code.
 dealing with json file
-#Dependencies
+# Dependencies
 get:  
   http:  
   flutter_staggered_grid_view:  
