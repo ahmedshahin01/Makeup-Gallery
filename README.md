@@ -24,14 +24,24 @@ dealing with json file
 # Dependencies
 get:  
   http:  
-  flutter_staggered_grid_view:  
+  flutter_staggered_grid_view:
+  
   convex_bottom_bar: 
+  
   multilevel_drawer: 
+  
   google_sign_in: 
+  
   firebase_core: 
+  
   firebase_auth:  
+  
   flutter_facebook_auth: 
+  
   lottie: 
+  
   cloud_firestore:  
+  
   flutter_colorpicker:
+  
 
