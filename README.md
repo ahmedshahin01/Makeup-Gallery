@@ -21,6 +21,7 @@ Sign-In, Sign-Up and LogOut using Email & Password / Google Account / Facebook A
 Using GetX as state management.
 Using MVC architecture and clean code.Using MVVM architecture and clean code.
 dealing with json file
+ Custom Clipper 
 # Dependencies
 get:  
   http:  
